@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL
 - 🌱 I’m currently learning Pytyon
 - 💞️ I’m looking to collaborate on front end engingeer.
-- 📫 How to reach me . By Eamil
+- 📫 How to reach me . 
 
 <!---
 JimmyGolive/JimmyGolive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
